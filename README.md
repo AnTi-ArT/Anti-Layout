@@ -29,7 +29,7 @@ Anti++ eases the pain a little bit through:
 - WIP on xmodmap...
 
 ### Issues
-- Win10: Keyboard shortcuts are on their old POSITION, so paste is Ctrl+o ... may or may not be desirable.
+- Win10: Keyboard shortcuts are on their old POSITION, so "Paste" is Ctrl+o ... may or may not be desirable.
 
 ## Previews:
 ### Normal
@@ -41,9 +41,10 @@ Anti++ eases the pain a little bit through:
 ### Shift AltGr
 ![Layout Shift AltGr](https://user-images.githubusercontent.com/6949092/30738169-7c567eec-9f89-11e7-97d2-e75dd8f7c067.jpg)
 
-## In Action
-Using osk.exe from Win7 (can be started via Cortana/Search). I recommend it over the default Win8+ keyboard  
-<img width="490" alt="demo-osk" src="https://user-images.githubusercontent.com/6949092/30739852-11ad1492-9f8f-11e7-8518-1f469b82e780.PNG"
 
-Using the Windows 8/10 "Touch" keyboard. Which is always super uge and clumsy, even in Portrait mode...  
+## In Action
+- Using osk.exe from Win7 (can be started via Cortana/Search). I recommend it over the default Win8+ keyboard, because it can float and be resized. Perfect for Pen input.
+<img width="490" alt="demo-osk" src="https://user-images.githubusercontent.com/6949092/30739852-11ad1492-9f8f-11e7-8518-1f469b82e780.PNG">
+
+- Using the Windows 8/10 "Touch" keyboard. Which is always super huge and clumsy, even in Portrait mode...
 <img width="360" alt="demo-touch" src="https://user-images.githubusercontent.com/6949092/30739853-11b1aa20-9f8f-11e7-875a-b95d7a4d5ef5.PNG">
